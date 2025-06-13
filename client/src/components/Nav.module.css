@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navContainer {
+    height: 20vh;
+    width: 100vw;
+    background-color:#0073cf;
+    color: white;
+}
+
+.navContainer > img {
+    position: relative;
+    top: 5vh;
+    left: 2vw;
+
+}
+
+.navContainer > h2 {
+    position: relative;
+    bottom: 2vh;
+    text-align: center;
+}
